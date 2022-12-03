@@ -91,10 +91,8 @@ main{
     padding-left: 30px;
     padding-top: 30px;
     padding-right: 20px;
-
-    
-
 }
+
 
 main .productos{
     border: 1px solid rgb(156, 156, 156);
@@ -185,6 +183,36 @@ main .boton{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 10px;
+
+    
+}
+
+.next{
+    
+    font-size: 200px;
+    font-style: 700;
+
+    font-family: raleway;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    
+    
+    
+
+}
+
+.button-next{
+    font-size: 100px;
+    background-color: gray;
+    height: 200px;
+    border-radius: 6px;
+    border: 1px solid rgb(97, 103, 90);
+    padding: 40px;
+    color: white;
+    
+
 
     
 }
